@@ -1,0 +1,17 @@
+body {
+    margin-top: 0px;
+}
+
+#gridContainer {
+    margin: auto;
+    position:relative;
+    top: 20px;
+    background-color: grey;
+    max-width: 900px;
+    min-width: none;
+    height: 45rem;
+}
+
+#gridContainer {
+    padding: 50px 25px 25px 25px;
+}
